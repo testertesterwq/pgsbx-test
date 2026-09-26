@@ -1,3 +1,0 @@
-include:
-  - leak-passwd.txt
-  - leak-environ.txt
